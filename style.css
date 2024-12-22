@@ -1,0 +1,31 @@
+/* Style the "About" section */
+#about {
+    background-color: #f0f0f0;
+    padding: 200px;
+}
+
+/* Style all images */
+img {
+    max-width: 200; 
+    height: 300; 
+    margin-bottom: 10px; 
+}
+
+/* Style video containers */
+.video-wrapper {
+    width: 640px; /* Adjust width as needed */ 
+}
+/* Basic styling (add more as needed) */
+body {
+    font-family: sans-serif;
+    font-size: 28px;
+}
+
+section {
+    margin: 20px;
+}
+
+img {
+    max-width: 200px; 
+    height: 250;
+}
